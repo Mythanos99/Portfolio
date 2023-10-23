@@ -99,7 +99,12 @@
   color: white;
   background-color: #00796b;
 } */
-
+.collection-item {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
 .contactme {
   position: relative;
   padding: 11px 35px;
