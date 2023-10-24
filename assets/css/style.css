@@ -27,8 +27,20 @@
   bottom: 0; 
   right: 0;
 }
-
+.color-ch{
+  background-color: #0077b5;
+}
+.color-ch-text{
+  color: #0077b5;
+}
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Playfair+Display&display=swap');
+.name{
+  font-family: 'Outfit', sans-serif;
+  font-family: 'Playfair Display', serif;
+  color: #100000;
+  background-color: #16506f;
+}
 .social {
   margin: 0 auto;
   width: auto;
@@ -329,7 +341,8 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #7a82f5 repeat;
+  /* background: #a7ffeb repeat; */
   position: relative;
 }
 
